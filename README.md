@@ -833,16 +833,17 @@ public class TecnoStoreSAS {
 
 ---
 
+---
+
 ## ✒️ Autor
 
 **Wily Duvan Villamil Rey**  
-Administrador de Bases de Datos Junior | Ingeniero de Desarrollo (ETL)  
+*Administrador de Bases de Datos Junior | Ingeniero de Desarrollo (ETL)*  
 
 📧 **Correo:** [willyvillamil861@gmail.com](mailto:willyvillamil861@gmail.com)  
-🔗 **LinkedIn:** [www.linkedin.com/in/wily-rey-administrador-bases-datos-junior](https://www.linkedin.com/in/wily-rey-administrador-bases-datos-junior)  
+
+🌐 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wily%20Rey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wily-rey-administrador-bases-datos-junior)  
 
 ---
 
-© 2025 Wily Duvan Villamil Rey.  
-Este proyecto está protegido bajo la licencia [MIT](LICENSE) y no puede ser reproducido sin la debida atribución.
 
