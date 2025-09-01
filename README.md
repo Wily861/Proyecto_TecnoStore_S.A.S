@@ -831,9 +831,6 @@ public class TecnoStoreSAS {
 ```
 ---
 
----
-
----
 
 ## ✒️ Autor
 
@@ -844,6 +841,6 @@ public class TecnoStoreSAS {
 
 🌐 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wily%20Rey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wily-rey-administrador-bases-datos-junior)  
 
----
+
 
 
