@@ -1,20 +1,37 @@
 # 🛒 TecnoStore S.A.S – Sistema de Inventario Inteligente
 
-**TecnoStore S.A.S** es una solución de software desarrollada en **Java (NetBeans IDE)** con **MySQL**, diseñada para **automatizar la gestión de inventarios en tiendas tecnológicas**.  
+**TecnoStore S.A.S** es una solución integral desarrollada en **Java (NetBeans IDE)** y **MySQL**, diseñada para **optimizar y automatizar la gestión de inventarios, ventas y compras en tiendas tecnológicas**.  
 
-El proyecto integra principios de **ingeniería de software**, modelado **UML** y estándares de calidad **ISO/IEC 25010**, garantizando un sistema **eficiente, escalable y confiable** para procesos críticos como inventarios, ventas, compras y atención al cliente.  
+Este sistema implementa **arquitectura MVC**, modelado **UML** y principios **SOLID**, garantizando **escalabilidad, seguridad y alto rendimiento**.  
+Su objetivo es **reducir errores operativos, agilizar procesos y ofrecer información en tiempo real** para la toma de decisiones estratégicas.  
+
+## ✨ Características destacadas
+- 📦 **Control de inventario** con alertas automáticas de stock.
+- 🧾 **Facturación y gestión de ventas** en tiempo real.
+- 📊 **Reportes inteligentes** y análisis de desempeño.
+- 🔐 **Seguridad avanzada** con control de roles y trazabilidad de operaciones.
+
+## 🚀 Tecnologías utilizadas
+- **Lenguaje:** Java (NetBeans IDE)
+- **Base de datos:** MySQL
+- **Arquitectura:** MVC
+- **Modelado:** UML
+- **Principios:** SOLID
+
+## 📈 Beneficios
+- Reducción de errores humanos en la gestión de inventarios.  
+- Procesos más rápidos y trazables.  
+- Información confiable y en tiempo real para decisiones estratégicas.  
+- Seguridad reforzada con control de roles y respaldos automáticos.  
+- Escalabilidad y adaptabilidad al crecimiento del negocio.
 
 ---
-
-## 📌 Badges del Proyecto
-![Java](https://img.shields.io/badge/Java-8%2B-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![NetBeans](https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)  
-![PMD](https://img.shields.io/badge/PMD-7.16.0-3C9DC5?style=for-the-badge&logo=codefactor&logoColor=white)  
-![ISO/IEC 25010](https://img.shields.io/badge/ISO%2FIEC-25010-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white)  
-
-
-
+## 🔍 Estándares y Buenas Prácticas
+- **ISO/IEC 25010**: evaluación de la calidad del software.  
+- **ISO/IEC 25000**: marco de referencia de calidad.  
+- **Buenas prácticas de programación en Java**: modularidad, comentarios y trazabilidad de requisitos.  
+- **Uso de UML**: trazabilidad entre requisitos, diseño y modelo de datos.  
+- **Normativa de facturación electrónica**: cumplimiento legal en el módulo de ventas.  
 ---
 
 ## 🎯 Objetivos del Proyecto
@@ -54,35 +71,7 @@ El proyecto integra principios de **ingeniería de software**, modelado **UML** 
 - Código modular con comentarios > **80% de cobertura**.  
 
 ---
-
-## 🛠️ Tecnologías Utilizadas
-- **Lenguaje:** Java (NetBeans IDE)  
-- **Base de Datos:** MySQL  
-- **Modelado:** UML (casos de uso, actividades, clases, modelo lógico–relacional)  
-- **Gestión de calidad:** ISO/IEC 25010 – ISO/IEC 25000  
-- **Control de código:** GitHub  
-- **Pruebas internas:** PMD 7.16.0   
-
----
-
-## 📈 Beneficios del Sistema
-- Reducción de errores humanos en la gestión de inventarios.  
-- Procesos más rápidos y trazables.  
-- Información confiable y en tiempo real para decisiones estratégicas.  
-- Seguridad reforzada con control de roles y respaldos automáticos.  
-- Escalabilidad y adaptabilidad al crecimiento del negocio.  
-
----
-
-## 🔍 Estándares y Buenas Prácticas
-- **ISO/IEC 25010**: evaluación de la calidad del software.  
-- **ISO/IEC 25000**: marco de referencia de calidad.  
-- **Buenas prácticas de programación en Java**: modularidad, comentarios y trazabilidad de requisitos.  
-- **Uso de UML**: trazabilidad entre requisitos, diseño y modelo de datos.  
-- **Normativa de facturación electrónica**: cumplimiento legal en el módulo de ventas.  
-
----
-## 🗄️ Esquema Relacional en MySQL – TecnoStore S.A.S (MySQL Workbench)
+## 🗄️ Esquema Relacional en MySQL Workbench 
 
 ```MySQL
 -- ============================================================
