@@ -5,18 +5,58 @@
 Este sistema implementa **arquitectura MVC**, modelado **UML** y principios **SOLID**, garantizando **escalabilidad, seguridad y alto rendimiento**.  
 Su objetivo es **reducir errores operativos, agilizar procesos y ofrecer información en tiempo real** para la toma de decisiones estratégicas.  
 
+---
+
+## 🎯 Objetivos del Proyecto
+- **Automatizar** el control de inventarios (entradas, salidas y actualizaciones en tiempo real).  
+- **Centralizar** la información de productos, clientes y proveedores.  
+- **Optimizar** procesos de ventas, compras, devoluciones y facturación electrónica.  
+- **Generar reportes inteligentes**: ventas por período, rotación de inventario, alertas de stock mínimo.  
+- **Cumplir estándares de calidad** ISO/IEC 25010, garantizando funcionalidad, fiabilidad, usabilidad y mantenibilidad.
+
+  ---
+## 🚀 Tecnologías Utilizadas
+
+- **Lenguaje:** Java (NetBeans IDE)
+- **Base de datos:** MySQL
+- **Arquitectura:** MVC
+- **Modelado:** UML (Casos de uso, actividades, clases, modelo lógico–relacional)
+- **Principios de diseño:** SOLID
+- **Gestión de calidad:** ISO/IEC 25010 – ISO/IEC 25000
+- **Control de código:** GitHub
+- **Pruebas internas:** PMD 7.16.0
+
+---
+
+### 🖥️ Stack Tecnológico
+
+![Java](https://img.shields.io/badge/Java-8%2B-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-IDE-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MVC](https://img.shields.io/badge/Arquitectura-MVC-FF6F00?style=for-the-badge&logo=diagram&logoColor=white)
+![UML](https://img.shields.io/badge/UML-Diagramas-6A1B9A?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![SOLID](https://img.shields.io/badge/Principios-SOLID-FF9800?style=for-the-badge&logo=codeforces&logoColor=white)
+![ISO/IEC 25010](https://img.shields.io/badge/ISO%2FIEC-25010-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)
+![PMD](https://img.shields.io/badge/PMD-7.16.0-3C9DC5?style=for-the-badge&logo=codefactor&logoColor=white)
+
+  ---
+
+## 🚀 Funcionalidades Clave
+- **Gestión de Inventario**: registro de productos, control de stock, alertas automáticas y etiquetas con código de barras.  
+- **Módulo de Ventas**: facturación electrónica, presupuestos configurables y devoluciones con actualización automática.  
+- **Módulo de Compras y Proveedores**: órdenes de compra, recepción de mercancía, pagos y devoluciones.  
+- **Gestión de Clientes**: información completa, presupuestos y seguimiento de historial de compras.  
+- **Reportes Estadísticos**: análisis de ventas, productos más vendidos, proyecciones de demanda y cuentas por cobrar/pagar.  
+- **Seguridad y Control de Acceso**: autenticación de usuarios y permisos diferenciados (Gerente / Vendedor).  
+---
 ## ✨ Características destacadas
 - 📦 **Control de inventario** con alertas automáticas de stock.
 - 🧾 **Facturación y gestión de ventas** en tiempo real.
 - 📊 **Reportes inteligentes** y análisis de desempeño.
 - 🔐 **Seguridad avanzada** con control de roles y trazabilidad de operaciones.
-
-## 🚀 Tecnologías utilizadas
-- **Lenguaje:** Java (NetBeans IDE)
-- **Base de datos:** MySQL
-- **Arquitectura:** MVC
-- **Modelado:** UML
-- **Principios:** SOLID
+  
+---
 
 ## 📈 Beneficios
 - Reducción de errores humanos en la gestión de inventarios.  
@@ -32,24 +72,6 @@ Su objetivo es **reducir errores operativos, agilizar procesos y ofrecer informa
 - **Buenas prácticas de programación en Java**: modularidad, comentarios y trazabilidad de requisitos.  
 - **Uso de UML**: trazabilidad entre requisitos, diseño y modelo de datos.  
 - **Normativa de facturación electrónica**: cumplimiento legal en el módulo de ventas.  
----
-
-## 🎯 Objetivos del Proyecto
-- **Automatizar** el control de inventarios (entradas, salidas y actualizaciones en tiempo real).  
-- **Centralizar** la información de productos, clientes y proveedores.  
-- **Optimizar** procesos de ventas, compras, devoluciones y facturación electrónica.  
-- **Generar reportes inteligentes**: ventas por período, rotación de inventario, alertas de stock mínimo.  
-- **Cumplir estándares de calidad** ISO/IEC 25010, garantizando funcionalidad, fiabilidad, usabilidad y mantenibilidad.  
-
----
-
-## 🚀 Funcionalidades Clave
-- **Gestión de Inventario**: registro de productos, control de stock, alertas automáticas y etiquetas con código de barras.  
-- **Módulo de Ventas**: facturación electrónica, presupuestos configurables y devoluciones con actualización automática.  
-- **Módulo de Compras y Proveedores**: órdenes de compra, recepción de mercancía, pagos y devoluciones.  
-- **Gestión de Clientes**: información completa, presupuestos y seguimiento de historial de compras.  
-- **Reportes Estadísticos**: análisis de ventas, productos más vendidos, proyecciones de demanda y cuentas por cobrar/pagar.  
-- **Seguridad y Control de Acceso**: autenticación de usuarios y permisos diferenciados (Gerente / Vendedor).  
 
 ---
 
