@@ -452,8 +452,6 @@ import java.util.List;
 
 /**
  * Clase DAO para gestionar operaciones CRUD sobre la entidad Usuario.
- * Alineada con principios SOLID, trazabilidad de datos, modularidad,
- * y estándares de calidad ISO/IEC 25010.
  *
  * Autor: Wily Duvan Villamil Rey 
  * Fecha: Agosto 2025
